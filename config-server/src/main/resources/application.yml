@@ -9,4 +9,7 @@ spring:
                 git:
                     default-label: master
                     uri: https://github.com/Cunos982003/IOC-PTH251125-BE104-Session07.git
-                    clone.on-start: true
+                    clone-on-start: true
+    # Encryption key for decrypting properties
+    encrypt:
+        key: MEDICAL_KEY_SECRET_2026
