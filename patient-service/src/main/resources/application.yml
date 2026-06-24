@@ -1,16 +1,8 @@
-db:
-    url: jdbc:postgre://localhost:5432/patient_db
-    username: root
-message: Chao mung den voi Patient Service tu Config Server
-server:
-    port: 8081
 spring:
-    application:
-        name: patient-service
     datasource:
         password: 123456
         url: jdbc:postgresql://localhost:5432/patient_db
         username: postgres
-    cloud:
-        config:
-            uri: http://localhost:8888
+    jpa:
+        hibernate:
+            ddl-auto: update
