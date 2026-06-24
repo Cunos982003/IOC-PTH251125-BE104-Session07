@@ -7,6 +7,10 @@ server:
 spring:
     application:
         name: patient-service
+    datasource:
+        password: 123456
+        url: jdbc:postgresql://localhost:5432/patient_db
+        username: postgres
     cloud:
         config:
             uri: http://localhost:8888
