@@ -1,0 +1,12 @@
+server:
+    port: 8888
+spring:
+    application:
+        name: config-server
+    cloud:
+        config:
+            server:
+                git:
+                    default-label: master
+                    uri: https://github.com/Cunos982003/IOC-PTH251125-BE104-Session07.git
+                    clone.on-start: true
