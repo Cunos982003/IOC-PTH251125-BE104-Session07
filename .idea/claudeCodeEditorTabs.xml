@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ClaudeCodeEditorTabs">
-    <option name="activeSessionId" value="d9c679c7-64cd-4bd2-872f-fc455c8ad78f" />
+    <option name="activeSessionId" value="4f865cbf-7599-4b6a-8af7-c7fe114ad824" />
     <option name="openSessionIds">
       <list>
-        <option value="0246ef00-5e85-4980-8279-bbf974bb1eda" />
         <option value="3cd7af4d-77fc-4a95-9234-323e93e51dc1" />
-        <option value="d9c679c7-64cd-4bd2-872f-fc455c8ad78f" />
+        <option value="4f865cbf-7599-4b6a-8af7-c7fe114ad824" />
       </list>
     </option>
     <option name="sessionPaths">
       <map>
-        <entry key="0246ef00-5e85-4980-8279-bbf974bb1eda" value="/sessions/new" />
         <entry key="3cd7af4d-77fc-4a95-9234-323e93e51dc1" value="/sessions/bb57c481-225d-41f0-80a0-a9b675871111" />
-        <entry key="d9c679c7-64cd-4bd2-872f-fc455c8ad78f" value="/sessions/new" />
+        <entry key="4f865cbf-7599-4b6a-8af7-c7fe114ad824" value="/sessions/new" />
       </map>
     </option>
     <option name="sessionTitles">
       <map>
-        <entry key="0246ef00-5e85-4980-8279-bbf974bb1eda" value="Claude Code" />
         <entry key="3cd7af4d-77fc-4a95-9234-323e93e51dc1" value="fix properties patient service" />
-        <entry key="d9c679c7-64cd-4bd2-872f-fc455c8ad78f" value="Claude Code" />
+        <entry key="4f865cbf-7599-4b6a-8af7-c7fe114ad824" value="Claude Code" />
       </map>
     </option>
   </component>
